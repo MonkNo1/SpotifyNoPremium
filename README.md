@@ -1,4 +1,5 @@
-# ⚠ This repository is no longer maintained, please use [Adblockify](https://github.com/rxri/spicetify-extensions/tree/main/adblock) instead
+# ⚠ This repository is no longer maintained. However, as a user who has benefited greatly from it, I wish to contribute and continue its development. I will also be using Adblockify and updating it. If you're looking for an alternative, please use Adblockify instead.
+
 As Spicetify kept getting developed, SpotifyNoPremium was no longer a better alternative to any other available options. <br>
 I've tried making this as simple as I could with one-click scripts (especially for people who aren't familiar with CLIs or just aren't tech-savvy in general), but after [Spicetify Marketplace](https://github.com/spicetify/marketplace/wiki/Installation) got better, this is no longer the case and is very easy to use.
 
